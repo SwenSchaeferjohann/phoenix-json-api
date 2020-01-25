@@ -1,3 +1,15 @@
+
+
+# cURL
+curl -H "Content-Type: application/json" -X POST -d '{"email":"asd@asd.com","password":"qwerty"}' http://localhost:xxxx/api/users/sign_in -i
+
+
+
+
+
+
+
+
 # MyApp
 
 To start your Phoenix server:
